@@ -1,1 +1,1 @@
-web: gunicorn hcfinance2.wsgi --log-file -
+web: gunicorn hcfinance.wsgi --log-file -
